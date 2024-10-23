@@ -27,7 +27,7 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-res/
+
 out/
 .idea/
 chess.iml
